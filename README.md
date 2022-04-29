@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwafemi21
 - 👀 I’m interested in Web development and Software development
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me +2348028574289 on whatsapp
 
